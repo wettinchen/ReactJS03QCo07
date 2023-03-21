@@ -1,4 +1,4 @@
-## ReactJS Chapter 02
+## ReactJS Chapter 03
 It is my coding practice with the TUTORIAL of Dave Gray. 
 
 ## Source
@@ -7,41 +7,45 @@ https://youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
 ### Dave Gray 的 YouTube 頻道
 https://www.youtube.com/@DaveGrayTeachesCode
 
-## ReactJS Chapter 02
+## ReactJS Chapter 03
    Quick Concept outline
    中文摘要說明與重點提問
 
 ### 1. Intro 
        教學影片固定的開頭
 
-### 2. Where it all begins
-       複習並說明 index.js 的組成
+### 2. Introduction
+       說明 App.js 的組成
 
-### 3. The React App component <程式碼更動>
-       修改 default project 上的文字。
-       如何匯入 App.css ?
-       如何匯出 App.js 至 index.js ?
-       如何指派變數 name 於 function component 中?
-       開啟 default project 的 git 指令是什麼?
+### 3. ES7 React JS Snippets Extension
+       安裝 Visual Studio Code 編譯器 的延伸套件 ES7+ React/Redux/React-Native snippets
 
-### 4. JSX = JavaScript and XML 
-       思考 JSX 與 HTML、CSS、JavaScript的相同與相異處。
-       說明 function component 的 HTML element。
-       說明 function component 中 HTML element 的 Atribute。
-       哪個部分能匯入圖片於 default project ?
+### 4. Components must be imported
+       說明如何將 App.js 導入到 index.js
 
-### 5. React renders data in JSX as text  <程式碼更動>
-       在 function component 中新增 p element時，能輸入的資料型態有哪些?
-       哪些是 HTML 語法?
-       哪些是 JavaScript 語法?
+### 5. Creating the Header component <Code更動>
+       如何將新增的 Header.js 導入到 App.js?
+       如何有效率的新增並修改 Header.js 的 Code?
+       要新增什麼文字?
+       會使用哪些 HTML 元素?
        
-### 6. Adding comments to JSX
-       要如何快速備註?
+### 6. Creating the Content component <Code更動>
+       如何將新增的 Content.js 導入到 App.js?
+       如何有效率的新增並修改 Content.js 的 Code?
+       要新增什麼文字或功能?
+       會使用哪些 HTML 元素?
 
-### 7. Inserting Javascript Expressions into JSX  <程式碼更動>
-       修改 default project 上的文字為哈囉世界!
-       修改 default project 上的文字為哈囉和回傳變數 name 為作者的名字。
-       修改 default project 上的文字為哈囉和回傳三個可以隨機變換的名字。
+### 7. Creating the Footer component <Code更動>
+       如何將新增的 Footer.js 導入到 App.js?
+       如何有效率的新增 Footer.js 的 Code?
+       新增商標符號和會隨時間改變的年份
+       會使用哪些 HTML 元素?
+       
+### 8. Components encapsulate logic
+       說明檔案組成與封裝的邏輯
+       
+### 9. Using React Dev Tools to view the component tree
+       使用 Google 瀏覽器對照剛剛完成的三個部分。
 
 
 
@@ -115,3 +119,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# ReactJS03QCo07
